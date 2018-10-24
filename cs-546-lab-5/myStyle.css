@@ -1,0 +1,44 @@
+
+div
+{
+	heigth:"25%";
+	weigth:"100%";
+	padding:1em;
+	border:1px solid #000;
+	margin :15px
+	}
+
+section
+{
+	heigth:"25%";
+	weigth:"100%";
+	padding:1em;
+	border:1px solid #000;
+	margin :15px
+	}
+
+.align_center{
+	text-align :center;
+}
+.education{
+	background-image:url("http://www.baltana.com/files/wallpapers-5/Light-Background-Best-Wallpaper-16370.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+
+
+
+.story{
+	background-image:url("http://www.baltana.com/files/wallpapers-5/Light-Background-Nice-Wallpaper-16377.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+
+.index{
+	background-image:url("http://www.baltana.com/files/wallpapers-5/Light-Background-HD-Wallpaper-16373.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
